@@ -16,4 +16,4 @@ Backup pictures and files automatically from multiple devices on Codex with dece
 
 ## Interested to contribute?
 
-Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/waku-org/ideas/blob/master/CONTRIBUTE.md)
+Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/codex-storage/ideas/blob/master/CONTRIBUTE.md)
